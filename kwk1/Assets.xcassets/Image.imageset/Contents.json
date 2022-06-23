@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "345d1ce5-e55a-44da-87f6-cd7450bb7f59-RollerSkates.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "square.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
